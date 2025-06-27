@@ -15,10 +15,6 @@
 
 # Zigguratt
 [[Ziggurat/The Tower\|The Tower]]
-### Floors
-- [[Floors/Floor 1\|Floor 1]]
-- [[Floors/Floor 0\|Floor 0]]
-- [[Floors/Floor\|Floor]]
 
 ### Locations
 - [[Ziggurat/Kṣetra\|Kṣetra]]
