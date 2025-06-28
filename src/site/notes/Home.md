@@ -3,11 +3,9 @@
 ---
 
 # The concept of soul
-- [[The concept of soul/Anima\|Anima]]
+- [[The concept of soul/Soul\|Soul]]
 - [[The concept of soul/Body (Khet)\|Body (Khet)]]
 - [[The concept of soul/Crystals\|Crystals]]
-- [[The concept of soul/Soul\|Soul]]
-
 # Gods
  - [[Characters/gods/Grub\|Grub]]
  - [[Characters/gods/Mantis\|Mantis]]
@@ -17,7 +15,8 @@
 [[Ziggurat/The Tower\|The Tower]]
 
 ### Floors
-- 
-### Locations
-- [[Ziggurat/Kṣetra\|Kṣetra]]
+- Floor 1
+- [[Floors/Floor 0\|Floor 0]]
+	- [[Ziggurat/Kṣetra\|Kṣetra]]
+- Floor -1
 
