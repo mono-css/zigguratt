@@ -2,14 +2,14 @@
 {"dg-publish":true,"permalink":"/the-concept-of-soul/anima/"}
 ---
 
-Animas/Monos are beings that only consist of one or all the part of the [[The concept of soul/Soul\|Soul]] and no physical [[The concept of soul/Body (Khet)\|Body (Khet)]].
+~~Animas/Monos are beings that only consist of one or all the part of the [[The concept of soul/Soul\|Soul]] and no physical [[The concept of soul/Body (Khet)\|Body (Khet)]].~~
 
-Individual Animas can be described or named by the specific parts of the [[The concept of soul/Soul\|Soul]], they currently own. 
-For example:
+~~Individual Animas can be described or named by the specific parts of the [[The concept of soul/Soul\|Soul]], they currently own.~~ 
+~~For example:~~
 
-- Fivve Sahburen - consisting of Sah Bu and Ren
-- Sahrenshu - consisting of Sah Ren and Shu
-- Sahren - consisting of Sah and Ren (note there is only the anima label and no name this is because the anima doesn't have a Ba)
+- ~~Fivve Sahburen - consisting of Sah Bu and Ren~~
+- ~~Sahrenshu - consisting of Sah Ren and Shu~~
+- ~~Sahren - consisting of Sah and Ren (note there is only the anima label and no name this is because the anima doesn't have a Ba)~~
 
 
 # Echoborns
