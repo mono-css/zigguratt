@@ -4,7 +4,7 @@
 
 # Kṣetra
 
-Kṣetra is a divine field located in the [[Floors/Floor 0\|Floor 0]]. 
+Kṣetra is a divine field located in the [[Ziggurat/Floors/Floor 0\|Floor 0]]. 
 In the middle is [[Characters/gods/Panmanus\|Panmanus]]
 
 

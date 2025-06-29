@@ -7,7 +7,7 @@
 A soul is an entity that is capable of thinking, talking and interacting with the world around it.
 
 Most of the souls are made of 5 soul fragments:
-**Ren** - name, identity 
+**Ren** - name, identity, destiny
 **Bu** - personality 
 **Shu** - shadow, past self
 **Ib** - heart, empathy and moral

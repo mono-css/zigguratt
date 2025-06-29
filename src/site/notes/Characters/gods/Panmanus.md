@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/characters/gods/panmanus/"}
 ---
 
-Panmanus or Conanima is one of the gods of Ziggurat. They spend most of their time in the middle of Ksetra connecting souls fragments together with glue.
+# Shranta
+Shranta or Panmanus is one of the gods of Ziggurat. They spend most of their time in the middle of Ksetra connecting souls fragments together with glue.
 
 Appearance
 	
