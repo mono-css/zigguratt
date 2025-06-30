@@ -20,3 +20,5 @@
 	- [[Ziggurat/Kṣetra\|Kṣetra]]
 - Floor -1
 
+
+[[Characters/Mono\|Mono]]
