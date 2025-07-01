@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dgShowFileTree":true}
 ---
 
+#  Home
+
+
 # The concept of soul
 - [[The concept of soul/Soul\|Soul]]
 - [[The concept of soul/Body (Khet)\|Body (Khet)]]
@@ -19,6 +22,3 @@
 - [[Ziggurat/Floors/Floor 0\|Floor 0]]
 	- [[Ziggurat/Kṣetra\|Kṣetra]]
 - Floor -1
-
-
-[[Characters/Mono\|Mono]]
