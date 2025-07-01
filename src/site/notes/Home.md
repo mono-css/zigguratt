@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dgShowToc":true}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dgShowFileTree":true}
 ---
 
 # The concept of soul
