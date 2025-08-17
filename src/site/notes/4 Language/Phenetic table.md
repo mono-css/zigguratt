@@ -2,10 +2,12 @@
 {"dg-publish":true,"permalink":"/4-language/phenetic-table/"}
 ---
 
-Plosives:     p  b   t  d   k  g   q   ʔ
-Nasals:       m      n      ŋ
-Fricatives:   f  θ   s  z   ʃ   x  χ   h
-Trills:              r̥          ʀ
+               Bilabial   Alveolar   Post-alveolar   Dental   Velar   Uvular   Glottal
+Plosive        p   b      t   d                           k   g   q        ʔ
+Nasal          m          n                                ŋ
+Fricative      f          s   z        ʃ         θ         x       χ        h
+Trill                     r̥                                         ʀ
+
 
 
 

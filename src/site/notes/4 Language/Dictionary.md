@@ -13,6 +13,7 @@ Fr̥yʃah - floor
 
 
 
+
 Ig - I/me
 Gu - you
 Aníː - they (soul)
