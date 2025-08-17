@@ -20,6 +20,6 @@ y
 
 ### Floors
 - Floor 1
-- [[1 Ziggurat/Floors/Floor 0\|Floor 0]]
+- [[1 Ziggurat/Floors/F0 Kšetra\|F0 Kšetra]]
 	- [[1 Ziggurat/Kṣetra\|Kṣetra]]
 - Floor -1
