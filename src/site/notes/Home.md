@@ -3,8 +3,8 @@
 ---
 
 #  Home
-y
-
+Welcome to the official Ziggurat wiki!
+![hello.gif](/img/user/hello.gif)
 
 # The concept of soul
 - [[2 The concept of soul/Soul\|Soul]]
@@ -16,10 +16,10 @@ y
 - [[3 Characters/gods/Grub\|Grub]]
 - [[3 Characters/gods/Mantis\|Mantis]] 
 # Zigguratt
-[[1 Ziggurat/The Tower\|The Tower]]
+[[The Tower\|The Tower]]
 
 ### Floors
 - Floor 1
 - [[1 Ziggurat/Floors/F0 Kšetra\|F0 Kšetra]]
-	- [[1 Ziggurat/Kṣetra\|Kṣetra]]
+	- [[Kṣetra\|Kṣetra]]
 - Floor -1
