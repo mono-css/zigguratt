@@ -15,11 +15,22 @@ Welcome to the official Ziggurat wiki!
 - [[3 Characters/gods/Vanijah\|Vanijah]]
 - [[3 Characters/gods/Grub\|Grub]]
 - [[3 Characters/gods/Mantis\|Mantis]] 
+
+# Creatures
+- a
+
+# Characters
+- Mono
+- [[3 Characters/animas/Megaron\|Megaron]]
+- [[3 Characters/animas/Tergum\|Tergum]]
+
 # Zigguratt
 [[The Tower\|The Tower]]
 
 ### Floors
-- Floor 1
+
+- F3 Castle
+- F2 Vodoměrka
+- F1
 - [[1 Ziggurat/Floors/F0 Kšetra\|F0 Kšetra]]
-	- [[Kṣetra\|Kṣetra]]
 - Floor -1
