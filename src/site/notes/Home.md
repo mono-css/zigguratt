@@ -10,6 +10,9 @@ Welcome to the official Ziggurat wiki!
 - [[2 The concept of soul/Soul\|Soul]]
 - [[2 The concept of soul/Body (Khet)\|Body (Khet)]]
 - [[2 The concept of soul/Crystals\|Crystals]]
+
+---
+
 # Gods
 - [[3 Characters/gods/Panmanus\|Panmanus]]
 - [[3 Characters/gods/Vanijah\|Vanijah]]
