@@ -3,7 +3,7 @@
 ---
 
 #  Home
-Welcome to the official Ziggurat wiki!
+Welcome to the official Ziggurat wiki! 
 ![hello.gif](/img/user/hello.gif)
 
 # The concept of soul
@@ -11,7 +11,7 @@ Welcome to the official Ziggurat wiki!
 - [[2 The concept of soul/Body (Khet)\|Body (Khet)]]
 - [[2 The concept of soul/Crystals\|Crystals]]
 
----
+
 
 # Gods
 - [[3 Characters/gods/Panmanus\|Panmanus]]
