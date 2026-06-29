@@ -10,3 +10,4 @@ Appearance
 
 Putting back souls together
 	he takes multiple [[2 The concept of soul/Soul\|Soul]] fragments, glues them together and than puts them into his basket/saltshaker. When the time comes and his basket/saltshaker is full 
+![IMG_5819.jpg](/img/user/IMG_5819.jpg)
